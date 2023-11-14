@@ -1,0 +1,10 @@
+#<CodeIsLife/>
+
+* ALL the solutions are executed/ran in index.java.
+* Solutions for questions 1.1, 1.2, 1.3, 1.4 are methods in the Student class inside Student.java.
+* I called methods instances in QuestionOne.java to make the distinguishable and easy to follow
+* Solution for question 2.1 Recording.java does not print anything 
+since the question asks that I model a class that instances are going to be created from.
+* Part of question 2.2 start in Recording.java since I had to made use of some of the methods inside Recording class.
+* I hope you don't find the file structure to hard to understand.
+* Keeping up with the theme and making the code uniform question 3 starts in TaxReturn.java and I called its method in QuestionThree.java.
